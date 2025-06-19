@@ -1,0 +1,40 @@
+.parrafo1{
+    background-color: yellow;
+    color: blue;
+    width: 300px;
+    height: auto;
+    padding: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+
+}
+.parrafo2{
+    background-color: rgb(55, 241, 55);
+    color: rgb(255, 0, 0);
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(102, 100, 100);
+    text-align: center;
+
+}
+.parrafo3{
+    background-color: rgb(117, 177, 255);
+    color: rgb(0, 0, 0);
+    width: 50%;
+    /* height: 500px; */
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(160, 37, 37);
+    text-align: center;
+
+}

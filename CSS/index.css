@@ -1,0 +1,8 @@
+footer.piePagina {
+    text-align: center;
+    background: rgb(89, 86, 107); /* Color 1 */
+    color: rgb(227, 208, 149);    /* Color 2 */
+    padding: 24px 10 12px 10;
+    border-top: 4px solid rgb(121, 101, 193); /* Color 4 */
+    font-size: 1rem;
+}
